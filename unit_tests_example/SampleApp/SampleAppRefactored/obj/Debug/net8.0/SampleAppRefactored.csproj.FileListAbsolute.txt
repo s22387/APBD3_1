@@ -1,0 +1,15 @@
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/bin/Debug/net8.0/SampleAppRefactored
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/bin/Debug/net8.0/SampleAppRefactored.deps.json
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/bin/Debug/net8.0/SampleAppRefactored.runtimeconfig.json
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/bin/Debug/net8.0/SampleAppRefactored.dll
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/bin/Debug/net8.0/SampleAppRefactored.pdb
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.AssemblyInfoInputs.cache
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.AssemblyInfo.cs
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.csproj.CoreCompileInputs.cache
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.sourcelink.json
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.dll
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/refint/SampleAppRefactored.dll
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.pdb
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/SampleAppRefactored.genruntimeconfig.cache
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/unit_tests_example/SampleApp/SampleAppRefactored/obj/Debug/net8.0/ref/SampleAppRefactored.dll
